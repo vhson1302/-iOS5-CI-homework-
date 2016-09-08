@@ -61,6 +61,9 @@ print("Khoang canh: \(q1.distance(q2))")
 print("normalize: \(q1.vectorNormalize(q1.distance(q2), secondPoint: q2))")
 
 
+print("Hello")
+
+
 
 
 
